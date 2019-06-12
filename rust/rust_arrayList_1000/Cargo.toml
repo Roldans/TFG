@@ -1,0 +1,6 @@
+[package]
+name = "rust_arrayList_1000"
+version = "0.1.0"
+authors = ["Pablo <roldis2@hotmail.com>"]
+
+[dependencies]

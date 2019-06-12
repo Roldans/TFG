@@ -1,0 +1,1 @@
+/home/roldan/Documentos/TFG/TFG/rust/rust_search_1000000/target/release/rust_search_1000000: /home/roldan/Documentos/TFG/TFG/rust/rust_search_1000000/src/main.rs /home/roldan/Documentos/TFG/TFG/rust/rust_search_1000000/src/search.rs

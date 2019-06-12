@@ -1,0 +1,1 @@
+/home/roldan/Documentos/TFG/TFG/rust/rust_search_1000KK/target/debug/rust_search_1000KK: /home/roldan/Documentos/TFG/TFG/rust/rust_search_1000KK/src/main.rs /home/roldan/Documentos/TFG/TFG/rust/rust_search_1000KK/src/search.rs

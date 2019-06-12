@@ -1,0 +1,1 @@
+/home/roldan/Documentos/TFG/TFG/rust/rust_search_100KK_middle_case/target/release/rust_search_100KK_middle_case: /home/roldan/Documentos/TFG/TFG/rust/rust_search_100KK_middle_case/src/main.rs /home/roldan/Documentos/TFG/TFG/rust/rust_search_100KK_middle_case/src/search.rs

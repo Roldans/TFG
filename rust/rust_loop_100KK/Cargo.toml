@@ -1,0 +1,6 @@
+[package]
+name = "rust_loop_100KK"
+version = "0.1.0"
+authors = ["Pablo <roldis2@hotmail.com>"]
+
+[dependencies]
