@@ -1,0 +1,11 @@
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/bin/Debug/netcoreapp2.2/dotnet_arrayList_100KK.deps.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/bin/Debug/netcoreapp2.2/dotnet_arrayList_100KK.runtimeconfig.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/bin/Debug/netcoreapp2.2/dotnet_arrayList_100KK.runtimeconfig.dev.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/bin/Debug/netcoreapp2.2/dotnet_arrayList_100KK.dll
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/bin/Debug/netcoreapp2.2/dotnet_arrayList_100KK.pdb
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/obj/Debug/netcoreapp2.2/dotnet_arrayList_100KK.csprojAssemblyReference.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/obj/Debug/netcoreapp2.2/dotnet_arrayList_100KK.csproj.CoreCompileInputs.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/obj/Debug/netcoreapp2.2/dotnet_arrayList_100KK.AssemblyInfoInputs.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/obj/Debug/netcoreapp2.2/dotnet_arrayList_100KK.AssemblyInfo.cs
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/obj/Debug/netcoreapp2.2/dotnet_arrayList_100KK.dll
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/obj/Debug/netcoreapp2.2/dotnet_arrayList_100KK.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj": {}
+    "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj": {}
   },
   "projects": {
-    "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj": {
+    "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj",
+        "projectUniqueName": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj",
         "projectName": "dotnet_search_1000000_worst_case",
-        "projectPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj",
+        "projectPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_search_1000000_worst_case/dotnet_search_1000000_worst_case.csproj",
         "packagesPath": "/home/roldan/.nuget/packages/",
-        "outputPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_search_1000000_worst_case/obj/",
+        "outputPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_search_1000000_worst_case/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

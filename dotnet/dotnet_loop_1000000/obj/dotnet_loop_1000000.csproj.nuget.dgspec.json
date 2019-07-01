@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj": {}
+    "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj": {}
   },
   "projects": {
-    "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj": {
+    "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj",
+        "projectUniqueName": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj",
         "projectName": "dotnet_loop_1000000",
-        "projectPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj",
+        "projectPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/dotnet_loop_1000000.csproj",
         "packagesPath": "/home/roldan/.nuget/packages/",
-        "outputPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000000/obj/",
+        "outputPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

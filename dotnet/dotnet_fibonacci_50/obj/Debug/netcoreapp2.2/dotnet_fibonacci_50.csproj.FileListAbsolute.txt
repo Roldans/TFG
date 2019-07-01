@@ -1,0 +1,11 @@
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/bin/Debug/netcoreapp2.2/dotnet_fibonacci_50.deps.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/bin/Debug/netcoreapp2.2/dotnet_fibonacci_50.runtimeconfig.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/bin/Debug/netcoreapp2.2/dotnet_fibonacci_50.runtimeconfig.dev.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/bin/Debug/netcoreapp2.2/dotnet_fibonacci_50.dll
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/bin/Debug/netcoreapp2.2/dotnet_fibonacci_50.pdb
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/obj/Debug/netcoreapp2.2/dotnet_fibonacci_50.csprojAssemblyReference.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/obj/Debug/netcoreapp2.2/dotnet_fibonacci_50.csproj.CoreCompileInputs.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/obj/Debug/netcoreapp2.2/dotnet_fibonacci_50.AssemblyInfoInputs.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/obj/Debug/netcoreapp2.2/dotnet_fibonacci_50.AssemblyInfo.cs
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/obj/Debug/netcoreapp2.2/dotnet_fibonacci_50.dll
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_fibonacci_50/obj/Debug/netcoreapp2.2/dotnet_fibonacci_50.pdb

@@ -1,1 +1,1 @@
-/home/roldan/Documentos/TFG/TFG/rust/rust_search_1000KK_best_case/target/release/rust_search_1000KK_best_case: /home/roldan/Documentos/TFG/TFG/rust/rust_search_1000KK_best_case/src/main.rs /home/roldan/Documentos/TFG/TFG/rust/rust_search_1000KK_best_case/src/search.rs
+/home/roldan/Documentos/repo/TFG/rust/rust_search_1000KK_best_case/target/release/rust_search_1000KK_best_case: /home/roldan/Documentos/repo/TFG/rust/rust_search_1000KK_best_case/src/main.rs /home/roldan/Documentos/repo/TFG/rust/rust_search_1000KK_best_case/src/search.rs

@@ -1,0 +1,1 @@
+/home/roldan/Documentos/repo/TFG/rust/rust_search_100KK_best_case/target/debug/rust_search_100KK_best_case: /home/roldan/Documentos/repo/TFG/rust/rust_search_100KK_best_case/src/main.rs /home/roldan/Documentos/repo/TFG/rust/rust_search_100KK_best_case/src/search.rs

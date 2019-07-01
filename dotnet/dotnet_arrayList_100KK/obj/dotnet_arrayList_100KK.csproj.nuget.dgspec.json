@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj": {}
+    "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj": {}
   },
   "projects": {
-    "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj": {
+    "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj",
+        "projectUniqueName": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj",
         "projectName": "dotnet_arrayList_100KK",
-        "projectPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj",
+        "projectPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/dotnet_arrayList_100KK.csproj",
         "packagesPath": "/home/roldan/.nuget/packages/",
-        "outputPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_100KK/obj/",
+        "outputPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_100KK/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

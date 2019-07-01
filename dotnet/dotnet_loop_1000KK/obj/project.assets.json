@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000KK/dotnet_loop_1000KK.csproj",
+      "projectUniqueName": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000KK/dotnet_loop_1000KK.csproj",
       "projectName": "dotnet_loop_1000KK",
-      "projectPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000KK/dotnet_loop_1000KK.csproj",
+      "projectPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000KK/dotnet_loop_1000KK.csproj",
       "packagesPath": "/home/roldan/.nuget/packages/",
-      "outputPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_loop_1000KK/obj/",
+      "outputPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000KK/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

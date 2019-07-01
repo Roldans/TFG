@@ -8,5 +8,7 @@ fn fibonacci(n:u128)->u128{
 }
 
 fn main(){
-    fibonacci(50);
+
+    let res =fibonacci(50);
+
 }

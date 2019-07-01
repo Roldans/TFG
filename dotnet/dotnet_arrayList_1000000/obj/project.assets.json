@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_1000000/dotnet_arrayList_1000000.csproj",
+      "projectUniqueName": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_1000000/dotnet_arrayList_1000000.csproj",
       "projectName": "dotnet_arrayList_1000000",
-      "projectPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_1000000/dotnet_arrayList_1000000.csproj",
+      "projectPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_1000000/dotnet_arrayList_1000000.csproj",
       "packagesPath": "/home/roldan/.nuget/packages/",
-      "outputPath": "/home/roldan/Documentos/TFG/TFG/dotnet/dotnet_arrayList_1000000/obj/",
+      "outputPath": "/home/roldan/Documentos/repo/TFG/dotnet/dotnet_arrayList_1000000/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

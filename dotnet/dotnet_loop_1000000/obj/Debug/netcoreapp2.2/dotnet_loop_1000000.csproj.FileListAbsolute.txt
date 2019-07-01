@@ -1,0 +1,11 @@
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/bin/Debug/netcoreapp2.2/dotnet_loop_1000000.deps.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/bin/Debug/netcoreapp2.2/dotnet_loop_1000000.runtimeconfig.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/bin/Debug/netcoreapp2.2/dotnet_loop_1000000.runtimeconfig.dev.json
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/bin/Debug/netcoreapp2.2/dotnet_loop_1000000.dll
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/bin/Debug/netcoreapp2.2/dotnet_loop_1000000.pdb
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/obj/Debug/netcoreapp2.2/dotnet_loop_1000000.csprojAssemblyReference.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/obj/Debug/netcoreapp2.2/dotnet_loop_1000000.csproj.CoreCompileInputs.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/obj/Debug/netcoreapp2.2/dotnet_loop_1000000.AssemblyInfoInputs.cache
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/obj/Debug/netcoreapp2.2/dotnet_loop_1000000.AssemblyInfo.cs
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/obj/Debug/netcoreapp2.2/dotnet_loop_1000000.dll
+/home/roldan/Documentos/repo/TFG/dotnet/dotnet_loop_1000000/obj/Debug/netcoreapp2.2/dotnet_loop_1000000.pdb
